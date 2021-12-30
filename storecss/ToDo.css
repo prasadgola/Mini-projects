@@ -1,0 +1,62 @@
+body{
+	background-color: #000000;
+	/*background-image: linear-gradient(to right,#FCFEFE, #000000);*/
+}
+
+nav{
+	justify-content: space-around;
+	border-radius: 25px;
+	display: flex;
+	min-height: 10vh;
+	background-color: #FF0000;
+	/*background-image: linear-gradient(to right, #FCFEFE, #FF0000);*/
+}
+
+.navtxt {
+	color:white;
+}
+
+.blocktxt {
+	margin-left: 4vh;
+}
+
+.now{
+	margin-top: 2vh;
+	border-radius: 25px;
+	display:flex;
+	background-color: #7FFF00;
+	/*background-image: linear-gradient(to right, #FCFEFE, #7FFF00);*/
+}
+
+.later{
+	margin-top: 2vh;
+	border-radius: 25px;
+	display:flex;
+	color:white;
+	background-color: #4B0082;
+	/*background-image: linear-gradient(to right, #FCFEFE, #4B0082);*/
+}
+
+.goal{
+	margin-top: 2vh;
+	border-radius: 25px;
+	display:flex;
+	background-color: #696969;
+	color:white;
+	/*background-image: linear-gradient(to right, #FCFEFE, #696969);*/
+}
+
+.idea{
+	margin-top: 2vh;
+	border-radius: 25px;
+	display:flex;
+	background-color: #01BBFE;
+	/*background-image: linear-gradient(to right, #FCFEFE, #01BBFE);*/
+}
+
+.visa{
+	margin-top: 2vh;
+	border-radius: 25px;
+	/*display:flex;*/
+	background-color: white;	
+}
